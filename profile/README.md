@@ -23,3 +23,7 @@ If you want to compete on our CyberPatriot team, fill out the form on our [club 
 
 **CyberPatriot 17, 2024-2025:**
 - 2nd Place in Massachusetts (State Round)
+
+## 🔒 Club Member Access
+
+If you are a club member, please email one of the captains to be added as a member of this GitHub organization (you won't be able to access our scripts otherwise). If you already have access, go to the [member view](https://github.com/sharoncyber?view_as=member) or the [repositories page](https://github.com/orgs/sharoncyber/repositories).
